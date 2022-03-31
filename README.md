@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deeksha90
-- 👀 I’m interested in Python,R
+- 👀 I’m interested in Python,R, Data Analytics, Data Visualization, Data Science
 - 🌱 I’m currently learning Big Data and Analytics
 
 <!---
